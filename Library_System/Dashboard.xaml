@@ -1,0 +1,150 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Library_System"
+      xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="Library_System.Dashboard"
+      mc:Ignorable="d" 
+      d:DesignHeight="475" d:DesignWidth="810"
+      Title="Dashboard">
+
+    <Grid Background="Black">
+        <mah:Tile x:Name="tile_member" Title="Manage Member"
+            Margin="9,9,543,315"
+            mah:ControlsHelper.MouseOverBorderBrush="{DynamicResource MahApps.Brushes.ThemeForeground}"
+            VerticalTitleAlignment="Bottom" HorizontalTitleAlignment="Left" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Click="tile_member_Click" Cursor="Hand">
+            <mah:Tile.Background>
+                <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                    <LinearGradientBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleY="1" ScaleX="1"/>
+                            <SkewTransform AngleY="0" AngleX="0"/>
+                            <RotateTransform Angle="0"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </LinearGradientBrush.RelativeTransform>
+                    <GradientStop Color="#FF072263"/>
+                    <GradientStop Color="#FF6087AD" Offset="1"/>
+                    <GradientStop Color="#FF3B4F81" Offset="0.497"/>
+                </LinearGradientBrush>
+            </mah:Tile.Background>
+            <materialDesign:PackIcon Kind="Person" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="White" Width="152" Height="106"/>
+        </mah:Tile>
+        <mah:Tile x:Name="tile_book" Title="Manage Book"
+            Margin="276,9,277,315"
+            mah:ControlsHelper.MouseOverBorderBrush="{DynamicResource MahApps.Brushes.ThemeForeground}"
+            VerticalTitleAlignment="Bottom" HorizontalTitleAlignment="Left" Width="Auto" Height="Auto" Click="tile_book_Click" Cursor="Hand">
+            <mah:Tile.Background>
+                <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                    <GradientStop Color="#FF098000" Offset="0"/>
+                    <GradientStop Color="#FFC4E93A" Offset="1"/>
+                    <GradientStop Color="#FF54670C" Offset="0.008"/>
+                    <GradientStop Color="#FF91AB31" Offset="0.516"/>
+                </LinearGradientBrush>
+            </mah:Tile.Background>
+            <materialDesign:PackIcon Kind="ImportContacts" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="White" Width="146" Height="104"/>
+        </mah:Tile>
+        <mah:Tile x:Name="tile_new_user" Title="New User"
+            Margin="543,9,9,315"
+            mah:ControlsHelper.MouseOverBorderBrush="{DynamicResource MahApps.Brushes.ThemeForeground}"
+            VerticalTitleAlignment="Bottom" HorizontalTitleAlignment="Left" Width="Auto" Height="Auto" Click="tile_user_Click" Cursor="Hand">
+            <mah:Tile.Background>
+                <LinearGradientBrush EndPoint="1,2" StartPoint="0,0.5">
+                    <GradientStop Color="#FF420606"/>
+                    <GradientStop Color="#FFD1681A" Offset="1"/>
+                    <GradientStop Color="#FF684426" Offset="0.364"/>
+                </LinearGradientBrush>
+            </mah:Tile.Background>
+            <materialDesign:PackIcon Kind="PersonAdd" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="White" Width="146" Height="104"/>
+        </mah:Tile>
+        <mah:Tile x:Name="tile_issue" Title="Book Issues"
+            Margin="9,169,543,162"
+            mah:ControlsHelper.MouseOverBorderBrush="{DynamicResource MahApps.Brushes.ThemeForeground}"
+            VerticalTitleAlignment="Bottom" HorizontalTitleAlignment="Left" Width="Auto" Height="Auto" Click="tile_issue_Click" Cursor="Hand">
+            <mah:Tile.Background>
+                <LinearGradientBrush EndPoint="2,0.5" StartPoint="0,0.5">
+                    <GradientStop Color="#FFC1700C" Offset="0"/>
+                    <GradientStop Color="#FFE6E21B" Offset="1"/>
+                    <GradientStop Color="#FFE8BC1D" Offset="0.543"/>
+                </LinearGradientBrush>
+            </mah:Tile.Background>
+            <materialDesign:PackIcon Kind="Output" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="White" Width="152" Height="106"/>
+        </mah:Tile>
+        <mah:Tile x:Name="tile_return" Title="Book Returns"
+            Margin="276,169,277,162"
+            mah:ControlsHelper.MouseOverBorderBrush="{DynamicResource MahApps.Brushes.ThemeForeground}"
+            VerticalTitleAlignment="Bottom" HorizontalTitleAlignment="Left" Width="Auto" Height="Auto" Click="tile_return_Click" Cursor="Hand">
+            <mah:Tile.Background>
+                <LinearGradientBrush EndPoint="1,3" MappingMode="RelativeToBoundingBox" StartPoint="0,0.5">
+                    <GradientStop Color="#FF802D0B" Offset="0.019"/>
+                    <GradientStop Color="#FFFA0000" Offset="1"/>
+                    <GradientStop Color="#FFE04B39" Offset="0.473"/>
+                </LinearGradientBrush>
+            </mah:Tile.Background>
+            <materialDesign:PackIcon Kind="Input" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="White" Width="152" Height="106" RenderTransformOrigin="0.5,0.5">
+                <materialDesign:PackIcon.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="1" ScaleX="-1"/>
+                        <SkewTransform AngleY="0" AngleX="0"/>
+                        <RotateTransform Angle="0"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </materialDesign:PackIcon.RenderTransform>
+            </materialDesign:PackIcon>
+        </mah:Tile>
+        <mah:Tile x:Name="tile_search" Title="Search Book"
+            Margin="543,169,0,162"
+            mah:ControlsHelper.MouseOverBorderBrush="{DynamicResource MahApps.Brushes.ThemeForeground}"
+            VerticalTitleAlignment="Bottom" HorizontalTitleAlignment="Left" Width="258" Height="Auto" Click="tile_search_Click" HorizontalAlignment="Left" Cursor="Hand">
+            <mah:Tile.Background>
+                <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                    <GradientStop Color="#FF330E63" Offset="0"/>
+                    <GradientStop Color="#FF8F4FE5" Offset="1"/>
+                    <GradientStop Color="#FF6E49A0" Offset="0.511"/>
+                </LinearGradientBrush>
+            </mah:Tile.Background>
+            <materialDesign:PackIcon Kind="Search" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="White" Width="152" Height="106"/>
+        </mah:Tile>
+        <mah:Tile x:Name="tile_reminder" Title="Reminders" Click="tile_reminder_Click"
+            Margin="9,322,543,9"
+            mah:ControlsHelper.MouseOverBorderBrush="{DynamicResource MahApps.Brushes.ThemeForeground}"
+            VerticalTitleAlignment="Bottom" HorizontalTitleAlignment="Left" Width="Auto" Height="Auto" Cursor="Hand" >
+            <mah:Tile.Background>
+                <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                    <GradientStop Color="#FF415EA5" Offset="0"/>
+                    <GradientStop Color="#FF809BDD" Offset="1"/>
+                    <GradientStop Color="#FF5E80D4" Offset="0.487"/>
+                </LinearGradientBrush>
+            </mah:Tile.Background>
+            <materialDesign:PackIcon Kind="Email" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="White" Width="146" Height="98"/>
+        </mah:Tile>
+        <mah:Tile x:Name="tile_report" Title="Reports"
+            Margin="276,322,277,9"
+            mah:ControlsHelper.MouseOverBorderBrush="{DynamicResource MahApps.Brushes.ThemeForeground}"
+            VerticalTitleAlignment="Bottom" HorizontalTitleAlignment="Left" Width="Auto" Height="Auto" Click="tile_report_Click" Cursor="Hand">
+            <mah:Tile.Background>
+                <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                    <GradientStop Color="#FF521037" Offset="0"/>
+                    <GradientStop Color="#FFC43E8F" Offset="1"/>
+                    <GradientStop Color="#FF5E0339" Offset="0.516"/>
+                </LinearGradientBrush>
+            </mah:Tile.Background>
+            <materialDesign:PackIcon Kind="Paper" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="White" Width="152" Height="106" Cursor="Hand"/>
+        </mah:Tile>
+        <mah:Tile x:Name="tile_qrcode" Title="Print QR Code" Click="tile_qrcode_Click"
+            Margin="543,322,9,9"
+            mah:ControlsHelper.MouseOverBorderBrush="{DynamicResource MahApps.Brushes.ThemeForeground}"
+            VerticalTitleAlignment="Bottom" HorizontalTitleAlignment="Left" Width="Auto" Height="Auto" Cursor="Hand">
+            <mah:Tile.Background>
+                <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                    <GradientStop Color="#FF27252A" Offset="0"/>
+                    <GradientStop Color="#FF797381" Offset="1"/>
+                    <GradientStop Color="#FF383042" Offset="0.465"/>
+                </LinearGradientBrush>
+            </mah:Tile.Background>
+            <materialDesign:PackIcon Kind="Qrcode " VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="White" Width="132" Height="92"/>
+        </mah:Tile>
+
+    </Grid>
+</Page>

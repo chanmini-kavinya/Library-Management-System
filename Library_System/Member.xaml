@@ -1,0 +1,129 @@
+﻿<Page x:Name="member" x:Class="Library_System.Member"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:Dialog="clr-namespace:MahApps.Metro.Controls.Dialogs;assembly=MahApps.Metro"
+      Dialog:DialogParticipation.Register="{Binding}"
+      xmlns:dragablz="clr-namespace:Dragablz;assembly=Dragablz"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:local="clr-namespace:Library_System"
+      mc:Ignorable="d" 
+      d:DesignHeight="475" d:DesignWidth="810"
+      Title="Member" Loaded="Member_Load">
+
+
+    <Grid>
+
+
+        <dragablz:TabablzControl Height="475" VerticalAlignment="Top" Width="810" Margin="0,0,0,-0.333" >
+
+            <!--<TabControl  HorizontalAlignment="Left" Height="475" VerticalAlignment="Top" Width="810" Margin="0,0,0,-0.333" Grid.ColumnSpan="2">-->
+            <TabItem Header="Add"  >
+                <Grid Background="#FFE5E5E5" Margin="-3,-2,-2.667,-2.333">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="87*"/>
+                        <ColumnDefinition Width="310*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Content="Member ID" HorizontalAlignment="Left" Height="29" Margin="53,38,0,0" VerticalAlignment="Top" Width="124" Grid.ColumnSpan="2"/>
+                    <Label Content="NIC No." HorizontalAlignment="Left" Height="29" Margin="53,72,0,0" VerticalAlignment="Top" Width="124" Grid.ColumnSpan="2"/>
+                    <Label Content="Name" HorizontalAlignment="Left" Height="29" Margin="53,101,0,0" VerticalAlignment="Top" Width="124" Grid.ColumnSpan="2"/>
+                    <Label Content="Member Type" HorizontalAlignment="Left" Height="30" Margin="53,130,0,0" VerticalAlignment="Top" Width="124" Grid.ColumnSpan="2"/>
+                    <Label Content="Status" HorizontalAlignment="Left" Height="29" Margin="53,160,0,0" VerticalAlignment="Top" Width="124" Grid.ColumnSpan="2"/>
+                    <Label Content="Address" HorizontalAlignment="Left" Height="29" Margin="53,189,0,0" VerticalAlignment="Top" Width="124" Grid.ColumnSpan="2"/>
+                    <Label Content="Mobile No." HorizontalAlignment="Left" Height="30" Margin="53,304,0,0" VerticalAlignment="Top" Width="124" Grid.ColumnSpan="2"/>
+                    <Label Content="Email" HorizontalAlignment="Left" Height="29" Margin="53,334,0,0" VerticalAlignment="Top" Width="124" Grid.ColumnSpan="2"/>
+                    <TextBox x:Name="txt_mid_a" HorizontalAlignment="Left" Height="26" Margin="65.333,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Grid.Column="1" IsReadOnly="True"/>
+                    <TextBox x:Name="txt_nic_a" HorizontalAlignment="Left" Height="26" Margin="65.333,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Grid.Column="1"/>
+                    <TextBox x:Name="txt_name_a" HorizontalAlignment="Left" Height="26" Margin="65.333,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="327" Grid.Column="1"/>
+                    <TextBox x:Name="txt_mobile_a" HorizontalAlignment="Left" Height="27" Margin="65.333,304,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Grid.Column="1"/>
+                    <TextBox x:Name="txt_email_a" HorizontalAlignment="Left" Height="26" Margin="65.333,337,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="265" Grid.Column="1"/>
+                    <ComboBox x:Name="cmb_type_a" HorizontalAlignment="Left" Margin="65.333,136,0,0" VerticalAlignment="Top" Width="196" Grid.Column="1" Height="26">
+                        <ComboBox.Background>
+                            <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                                <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                                <GradientStop Color="White" Offset="1"/>
+                            </LinearGradientBrush>
+                        </ComboBox.Background>
+                        <ComboBoxItem Content="Staff" HorizontalAlignment="Left" Width="193.333333333333"/>
+                        <ComboBoxItem Content="Student" HorizontalAlignment="Left" Width="193.333333333333"/>
+                    </ComboBox>
+                    <Button x:Name="btn_save_a" Content="Save" HorizontalAlignment="Left" Margin="65.333,384,0,0" VerticalAlignment="Top" Width="75" Grid.Column="1" Foreground="White" Height="27" FontWeight="Bold" Style="{StaticResource Button}" Click="btn_save_a_Click"/>
+                    <TextBox x:Name="txt_address_a" AcceptsReturn="True" Grid.Column="1" HorizontalAlignment="Left" Height="88" Margin="66.333,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="326"/>
+                    <ComboBox x:Name="cmb_status_a" HorizontalAlignment="Left" Margin="66.333,168,0,0" VerticalAlignment="Top" Width="89" Grid.Column="1" Height="26">
+                        <ComboBoxItem Content="Prof." HorizontalAlignment="Left" Width="86.6666666666667"/>
+                        <ComboBoxItem Content="Dr." HorizontalAlignment="Left" Width="86.6666666666667"/>
+                        <ComboBoxItem Content="Mrs." HorizontalAlignment="Left" Width="86.6666666666667"/>
+                        <ComboBoxItem Content="Mr." HorizontalAlignment="Left" Width="86.6666666666667"/>
+                        <ComboBoxItem Content="Miss" HorizontalAlignment="Left" Width="86.6666666666667"/>
+                    </ComboBox>
+                    <TextBlock x:Name="error_msg_a" Grid.Column="1" HorizontalAlignment="Left" Height="60" Margin="379.667,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="225" RenderTransformOrigin="0.466,0.153" Foreground="#FFE83737" FontSize="12" FontWeight="Bold"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Update" >
+                <Grid Background="#FFE5E5E5" Margin="-3,-2,-2,-2.333" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="171*"/>
+                        <ColumnDefinition Width="623*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Member ID" HorizontalAlignment="Left" Height="29" Margin="53,39,0,0" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="NIC No." HorizontalAlignment="Left" Height="29" Margin="53,73,0,0" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="Name" HorizontalAlignment="Left" Height="29" Margin="53,102,0,0" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="Member Type" HorizontalAlignment="Left" Height="29" Margin="53,131,0,0" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="Status" HorizontalAlignment="Left" Height="29" Margin="53,160,0,0" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="Address" HorizontalAlignment="Left" Height="29" Margin="53,189,0,0" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="Mobile No." HorizontalAlignment="Left" Height="29" Margin="53,304,0,0" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="Email" HorizontalAlignment="Left" Height="29" Margin="53,333,0,0" VerticalAlignment="Top" Width="120"/>
+                    <TextBox x:Name="txt_mid_u" HorizontalAlignment="Left" Height="23" Margin="68.667,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Grid.Column="1"/>
+                    <TextBox x:Name="txt_nic_u" HorizontalAlignment="Left" Height="23" Margin="68.667,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Grid.Column="1"/>
+                    <TextBox x:Name="txt_name_u" HorizontalAlignment="Left" Height="23" Margin="68.667,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="327" Grid.Column="1"/>
+                    <TextBox x:Name="txt_mobile_u" HorizontalAlignment="Left" Height="23" Margin="68.667,304,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Grid.Column="1"/>
+                    <TextBox x:Name="txt_email_u" HorizontalAlignment="Left" Height="23" Margin="68.667,336,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="265" Grid.Column="1"/>
+                    <Button x:Name="btn_update_u" Content="Update" HorizontalAlignment="Left" Margin="68.667,383,0,0" VerticalAlignment="Top" Width="75" Grid.Column="1" Foreground="White" Style="{StaticResource Button}" FontWeight="Bold" Height="27" Click="btn_update_u_Click"/>
+                    <Button x:Name="btn_find_u" Content="Find" HorizontalAlignment="Left" Margin="302.667,39,0,0" VerticalAlignment="Top" Width="75" Grid.Column="1" Foreground="White" Style="{StaticResource Button}" FontWeight="Bold" Height="27" Click="btn_find_u_Click"/>
+                    <ComboBox x:Name="cmb_type_u" HorizontalAlignment="Left" Margin="68.667,136,0,0" VerticalAlignment="Top" Width="196" Grid.Column="1">
+                        <ComboBox.Background>
+                            <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                                <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                                <GradientStop Color="White" Offset="1"/>
+                            </LinearGradientBrush>
+                        </ComboBox.Background>
+                        <ComboBoxItem Content="Staff" HorizontalAlignment="Left" Width="193.333333333333"/>
+                        <ComboBoxItem Content="Student" HorizontalAlignment="Left" Width="193.333333333333"/>
+                    </ComboBox>
+                    <TextBox x:Name="txt_address_u" AcceptsReturn="True" Grid.Column="1" HorizontalAlignment="Left" Height="88" Margin="68.667,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="326"/>
+                    <ComboBox x:Name="cmb_status_u" Grid.Column="1" HorizontalAlignment="Left" Margin="68.667,168,0,0" VerticalAlignment="Top" Width="89">
+                        <ComboBoxItem Content="Prof." HorizontalAlignment="Left" Width="86.6666666666667"/>
+                        <ComboBoxItem Content="Dr." HorizontalAlignment="Left" Width="86.6666666666667"/>
+                        <ComboBoxItem Content="Mrs." HorizontalAlignment="Left" Width="86.6666666666667"/>
+                        <ComboBoxItem Content="Mr." HorizontalAlignment="Left" Width="86.6666666666667"/>
+                        <ComboBoxItem Content="Miss" HorizontalAlignment="Left" Width="86.6666666666667"/>
+                    </ComboBox>
+                    <TextBlock x:Name="error_msg_u" Grid.Column="1" HorizontalAlignment="Left" Height="60" Margin="410,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195" RenderTransformOrigin="0.466,0.153" Foreground="#FFE83737" FontSize="12" FontWeight="Bold"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Delete" >
+                <Grid Background="#FFE5E5E5" Margin="-3,-2,-2,-2.333">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="185*"/>
+                        <ColumnDefinition Width="609*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Member ID" HorizontalAlignment="Left" Height="29" Margin="55,63,0,0" VerticalAlignment="Top" Width="132"/>
+                    <TextBox x:Name="txt_mid_d" HorizontalAlignment="Left" Height="23" Margin="56.667,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Grid.Column="1"/>
+                    <Button x:Name="btn_find_d" Content="Find" HorizontalAlignment="Left" Margin="290.667,63,0,0" VerticalAlignment="Top" Width="75" Grid.Column="1" RenderTransformOrigin="0.749,1.384" Foreground="White" FontWeight="Bold" Height="27" Style="{StaticResource Button}" Click="btn_find_d_Click"/>
+                    <Label Content="Name" HorizontalAlignment="Left" Height="29" Margin="55,110,0,0" VerticalAlignment="Top" Width="132"/>
+                    <TextBox x:Name="txt_name_d" HorizontalAlignment="Left" Height="23" Margin="56.667,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="327" Grid.Column="1" />
+                    <Button x:Name="btn_delete" Content="Delete" HorizontalAlignment="Left" Margin="56.667,174,0,0" VerticalAlignment="Top" Width="70" Grid.Column="1" Foreground="White" Height="27" FontWeight="Bold" Style="{StaticResource Button}" Click="btn_delete_Click"/>
+                    <TextBlock x:Name="error_msg_d" Grid.Column="1" HorizontalAlignment="Left" Height="60" Margin="410,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195" RenderTransformOrigin="0.466,0.153" Foreground="#FFE83737" FontSize="12" FontWeight="Bold"/>
+                </Grid>
+            </TabItem>
+
+            </dragablz:TabablzControl>
+
+            <!--</TabControl>-->
+        <Label Content="Manage Members" HorizontalAlignment="Left" Margin="317,0,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.772,-1.391" Width="189" FontWeight="Bold" FontSize="18" Foreground="White"/>
+
+    </Grid>
+</Page>

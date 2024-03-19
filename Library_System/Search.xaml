@@ -1,0 +1,25 @@
+﻿<Page x:Name="search" x:Class="Library_System.Search"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Library_System"
+      mc:Ignorable="d"
+      Title="Search" Height="475" Width="810">
+
+    <Grid Background="#FFE5E5E5" Height="475" VerticalAlignment="Top" Margin="0,0,0,-0.333">
+        <Label Content="Title" HorizontalAlignment="Left" Height="24" Margin="61,81,0,0" VerticalAlignment="Top" Width="139"/>
+        <ComboBox x:Name="cmb_title" HorizontalAlignment="Left" Margin="244,84,0,0" VerticalAlignment="Top" Width="323" Height="21" DropDownClosed="cmb_title_DropDownClosed"/>
+        <Label Content="Class No." Height="24" Margin="61,165,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="139"/>
+        <Label Content="Letter" HorizontalAlignment="Left" Height="24" Margin="61,203,0,0" VerticalAlignment="Top" Width="139"/>
+        <TextBox x:Name="txt_classno" HorizontalAlignment="Left" Height="21" Margin="244,165,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="128" IsReadOnly="True"/>
+        <Label Content="Author" HorizontalAlignment="Left" Height="24" Margin="61,123,0,0" VerticalAlignment="Top" Width="139" RenderTransformOrigin="0.498,-0.155"/>
+        <TextBox x:Name="txt_author" HorizontalAlignment="Left" Height="22" Margin="244,123,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="270" IsReadOnly="True"/>
+        <TextBox x:Name="txt_letter" HorizontalAlignment="Left" Height="22" Margin="244,203,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="41" IsReadOnly="True"/>
+        <Grid HorizontalAlignment="Left" Height="42" VerticalAlignment="Top" Width="810" Margin="0,0,0,430" Background="#FF009688">
+            <Label Content="Search" HorizontalAlignment="Left" Height="34" Margin="365,3,0,0" VerticalAlignment="Top" Width="66" FontSize="18" Foreground="White" FontWeight="Bold"/>
+        </Grid>
+        <Border BorderThickness="1" Margin="60,236,94,24" BorderBrush="#FFACACAC"/>
+        <DataGrid x:Name="datagridveiw1" HorizontalAlignment="Left" Height="212" Margin="61,237,0,0" VerticalAlignment="Top" Width="654"/>
+    </Grid>
+</Page>

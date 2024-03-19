@@ -1,0 +1,34 @@
+﻿<Page x:Name="issues" x:Class="Library_System.Issues"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Library_System"
+      mc:Ignorable="d"
+      Title="Issues" Height="475" Width="810" Loaded="Issues_Loaded">
+
+    <Grid Background="#FFE5E5E5" Margin="0,0,0,-0.333">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Content="Member ID" HorizontalAlignment="Left" Margin="54,99,0,0" VerticalAlignment="Top" Width="94" Height="25"/>
+        <TextBox x:Name="txt_mid" HorizontalAlignment="Left" Height="23" Margin="255,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159" RenderTransformOrigin="0.422,-0.622"/>
+        <Label Content="Accession No." HorizontalAlignment="Left" Margin="54,151,0,0" VerticalAlignment="Top" Width="94" Height="25"/>
+        <TextBox x:Name="txt_accno" HorizontalAlignment="Left" Height="23" Margin="255,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159"/>
+        <Button x:Name="btn_find" Content="Find" HorizontalAlignment="Left" Margin="456,151,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.02,0.677" Height="27" Style="{StaticResource Button}" Foreground="White" FontWeight="Bold" Click="btn_find_Click"/>
+        <TextBox x:Name="txt_title" HorizontalAlignment="Left" Height="23" Margin="255,202,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="327" IsReadOnly="True"/>
+        <Label Content="Title" HorizontalAlignment="Left" Margin="54,202,0,0" VerticalAlignment="Top" Width="79" Height="25"/>
+        <Label Content="Due Return Date" HorizontalAlignment="Left" Margin="54,346,0,0" VerticalAlignment="Top" Width="108" Height="25"/>
+        <TextBox x:Name="txt_due_rtn_date" HorizontalAlignment="Left" Height="23" Margin="255,346,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159" IsReadOnly="True" RenderTransformOrigin="0.563,3.596"/>
+        <Button x:Name="btn_issue" Content="Issue Book" HorizontalAlignment="Left" Margin="255,407,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.602,1.067" Height="27" Foreground="White" Style="{StaticResource Button}" FontWeight="Bold" Click="btn_issue_Click"/>
+        <Label Content="Reference" HorizontalAlignment="Left" Margin="54,253,0,0" VerticalAlignment="Top" Width="94" Height="25"/>
+        <Label Content="Issue Date" HorizontalAlignment="Left" Margin="54,300,0,0" VerticalAlignment="Top" Width="94" Height="25"/>
+        <TextBox x:Name="txt_reference" HorizontalAlignment="Left" Height="23" Margin="255,253,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="75" IsReadOnly="True"/>
+        <TextBox x:Name="txt_issue_date" HorizontalAlignment="Left" Height="24" Margin="255,300,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159" IsReadOnly="True"/>
+        <Grid HorizontalAlignment="Left" Height="42" VerticalAlignment="top" Width="810" Background="#FF009688">
+            <Label Content="Book Issues" HorizontalAlignment="Center" Margin="333,3,369,0" VerticalAlignment="Top" FontSize="18" Foreground="White" FontWeight="Bold" RenderTransformOrigin="0.105,0.673"/>
+        </Grid>
+        <Button x:Name="btn_scan" Content="Scan" HorizontalAlignment="Left" Margin="579,151,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.02,0.677" Height="27" Style="{StaticResource Button}" Foreground="White" FontWeight="Bold" Click="btn_scan_Click"/>
+
+    </Grid>
+</Page>

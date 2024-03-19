@@ -1,0 +1,1308 @@
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Library_System_MarkupCompile.cache
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Library_System_MarkupCompile.lref
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Book.g.cs
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Dashboard.g.cs
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Issues.g.cs
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Member.g.cs
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\QRcode.g.cs
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Reminder.g.cs
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Report.g.cs
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Return.g.cs
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Search.g.cs
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Library_System_Content.g.cs
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Library_System.exe.config
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Library_System.exe
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\ControlzEx.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Dragablz.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\MahApps.Metro.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\ControlzEx.pdb
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\ControlzEx.xml
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Dragablz.pdb
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Dragablz.xml
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\MahApps.Metro.pdb
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\MahApps.Metro.xml
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\App.baml
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Book.baml
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Dashboard.baml
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Issues.baml
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Member.baml
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\QRcode.baml
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Reminder.baml
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Report.baml
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Return.baml
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Search.baml
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Library_System.g.resources
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Library_System.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Library_System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Library_System.csproj.CopyComplete
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Library_System.exe
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\Library_System\Library_System\obj\Debug\Library_System.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Library_System.exe.config
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Library_System.exe
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\ControlzEx.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Dragablz.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\MahApps.Metro.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\ControlzEx.pdb
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\ControlzEx.xml
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Dragablz.pdb
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Dragablz.xml
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\MahApps.Metro.pdb
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\MahApps.Metro.xml
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Book.g.cs
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Dashboard.g.cs
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Issues.g.cs
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Member.g.cs
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\QRcode.g.cs
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Reminder.g.cs
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Report.g.cs
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Return.g.cs
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Search.g.cs
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Library_System_Content.g.cs
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Library_System_MarkupCompile.cache
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Library_System_MarkupCompile.lref
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\App.baml
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Book.baml
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Dashboard.baml
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Issues.baml
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Member.baml
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\QRcode.baml
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Reminder.baml
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Report.baml
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Return.baml
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Search.baml
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Library_System.g.resources
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Library_System.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Library_System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Library_System.csproj.CopyComplete
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Library_System.exe
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\ScanQRcode.g.cs
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\ScanQRcode.baml
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\zxing.dll
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Desktop\testtttt\Library_System\bin\Debug\zxing.xml
+C:\Users\Admin\Desktop\testtttt\Library_System\obj\Debug\Library_System.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Library_System.exe.config
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Library_System.exe
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\ControlzEx.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Dragablz.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\MahApps.Metro.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\zxing.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\ControlzEx.pdb
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\ControlzEx.xml
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Dragablz.pdb
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Dragablz.xml
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\MahApps.Metro.pdb
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\MahApps.Metro.xml
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\zxing.xml
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Book.g.cs
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Dashboard.g.cs
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Issues.g.cs
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Member.g.cs
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\QRcode.g.cs
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Reminder.g.cs
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Report.g.cs
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Return.g.cs
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\ScanQRcode.g.cs
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Search.g.cs
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Library_System_Content.g.cs
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Library_System_MarkupCompile.cache
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Library_System_MarkupCompile.lref
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\App.baml
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Book.baml
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Dashboard.baml
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Issues.baml
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Member.baml
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\QRcode.baml
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Reminder.baml
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Report.baml
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Return.baml
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\ScanQRcode.baml
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Search.baml
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Library_System.g.resources
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Library_System.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Library_System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Library_System.csproj.CopyComplete
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Library_System.exe
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\testttt\Library_System\bin\Debug\QRCoder.dll
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Login.g.cs
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Login.baml
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\NewUser.g.cs
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\NewUser.baml
+C:\Users\Admin\Desktop\testttt\Library_System\obj\Debug\Library_System.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Library_System.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Book.g.cs
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Dashboard.g.cs
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Issues.g.cs
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Login.g.cs
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Member.g.cs
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\NewUser.g.cs
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\QRcode.g.cs
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Reminder.g.cs
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Report.g.cs
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Return.g.cs
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\ScanQRcode.g.cs
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Search.g.cs
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Library_System_Content.g.cs
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Library_System_MarkupCompile.cache
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Library_System_MarkupCompile.lref
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Library_System.exe
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Library_System.exe.config
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Library_System.exe
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\ControlzEx.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Dragablz.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\MahApps.Metro.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\QRCoder.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\zxing.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\ControlzEx.pdb
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\ControlzEx.xml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Dragablz.pdb
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Dragablz.xml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\MahApps.Metro.pdb
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\MahApps.Metro.xml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\zxing.xml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\App.baml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Book.baml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Dashboard.baml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Issues.baml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Login.baml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Member.baml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\NewUser.baml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\QRcode.baml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Reminder.baml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Report.baml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Return.baml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\ScanQRcode.baml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Search.baml
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Library_System.g.resources
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Library_System.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Library_System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Library_System.csproj.CopyComplete
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Library_System.exe.manifest
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\bin\Debug\Library_System.application
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Library_System.exe.manifest
+C:\Users\Admin\Desktop\testttt - Copy\Library_System\obj\Debug\Library_System.application
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Library_System.exe.config
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Library_System.exe.manifest
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Library_System.application
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Library_System.exe
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\ControlzEx.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Dragablz.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\MahApps.Metro.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\QRCoder.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\zxing.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\ControlzEx.pdb
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\ControlzEx.xml
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Dragablz.pdb
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Dragablz.xml
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\MahApps.Metro.pdb
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\MahApps.Metro.xml
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\zxing.xml
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Library_System.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Book.g.cs
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Dashboard.g.cs
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Issues.g.cs
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Login.g.cs
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Member.g.cs
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\NewUser.g.cs
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\QRcode.g.cs
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Reminder.g.cs
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Report.g.cs
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Return.g.cs
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\ScanQRcode.g.cs
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Search.g.cs
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Library_System_Content.g.cs
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Library_System_MarkupCompile.cache
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Library_System_MarkupCompile.lref
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\App.baml
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Book.baml
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Dashboard.baml
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Issues.baml
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Login.baml
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Member.baml
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\NewUser.baml
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\QRcode.baml
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Reminder.baml
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Report.baml
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Return.baml
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\ScanQRcode.baml
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Search.baml
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Library_System.g.resources
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Library_System.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Library_System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Library_System.exe.manifest
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Library_System.application
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Library_System.csproj.CopyComplete
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Library_System.exe
+C:\Users\Admin\Desktop\Imesha\Library_System\obj\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Library_System.exe.config
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Library_System.exe.manifest
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Library_System.application
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Library_System.exe
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\ControlzEx.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Dragablz.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\MahApps.Metro.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\QRCoder.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\zxing.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\ControlzEx.pdb
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\ControlzEx.xml
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Dragablz.pdb
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Dragablz.xml
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\MahApps.Metro.pdb
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\MahApps.Metro.xml
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\zxing.xml
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Library_System.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Book.g.cs
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Dashboard.g.cs
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Issues.g.cs
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Login.g.cs
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Member.g.cs
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\NewUser.g.cs
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\QRcode.g.cs
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Reminder.g.cs
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Report.g.cs
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Return.g.cs
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\ScanQRcode.g.cs
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Search.g.cs
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Library_System_Content.g.cs
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Library_System_MarkupCompile.cache
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Library_System_MarkupCompile.lref
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\App.baml
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Book.baml
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Dashboard.baml
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Issues.baml
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Login.baml
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Member.baml
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\NewUser.baml
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\QRcode.baml
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Reminder.baml
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Report.baml
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Return.baml
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\ScanQRcode.baml
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Search.baml
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Library_System.g.resources
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Library_System.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Library_System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Library_System.exe.manifest
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Library_System.application
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Library_System.csproj.CopyComplete
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Library_System.exe
+C:\Users\Admin\Desktop\final 8\Library_System\obj\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Library_System.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Book.g.cs
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Dashboard.g.cs
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Issues.g.cs
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Login.g.cs
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Member.g.cs
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\NewUser.g.cs
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\QRcode.g.cs
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Reminder.g.cs
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Report.g.cs
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Return.g.cs
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\ScanQRcode.g.cs
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Search.g.cs
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Library_System_Content.g.cs
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Library_System_MarkupCompile.cache
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Library_System_MarkupCompile.lref
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Library_System.exe
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Library_System.exe.config
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Library_System.exe.manifest
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Library_System.application
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Library_System.exe
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\ControlzEx.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Dragablz.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\MahApps.Metro.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\QRCoder.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\zxing.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\ControlzEx.pdb
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\ControlzEx.xml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Dragablz.pdb
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Dragablz.xml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\MahApps.Metro.pdb
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\MahApps.Metro.xml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\zxing.xml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\App.baml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Book.baml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Dashboard.baml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Issues.baml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Login.baml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Member.baml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\NewUser.baml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\QRcode.baml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Reminder.baml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Report.baml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Return.baml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\ScanQRcode.baml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Search.baml
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Library_System.g.resources
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Library_System.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Library_System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Library_System.exe.manifest
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Library_System.application
+C:\Users\Admin\Desktop\final 8 - Copy\Library_System\obj\Debug\Library_System.csproj.CopyComplete
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Library_System.exe.config
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Library_System.exe.manifest
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Library_System.application
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Library_System.exe
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\ControlzEx.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Dragablz.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\MahApps.Metro.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\QRCoder.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\zxing.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\ControlzEx.pdb
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\ControlzEx.xml
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Dragablz.pdb
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Dragablz.xml
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\MahApps.Metro.pdb
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\MahApps.Metro.xml
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\zxing.xml
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Library_System.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Book.g.cs
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Dashboard.g.cs
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Issues.g.cs
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Login.g.cs
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Member.g.cs
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\NewUser.g.cs
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\QRcode.g.cs
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Reminder.g.cs
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Report.g.cs
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Return.g.cs
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\ScanQRcode.g.cs
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Search.g.cs
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Library_System_Content.g.cs
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Library_System_MarkupCompile.cache
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Library_System_MarkupCompile.lref
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\App.baml
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Book.baml
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Dashboard.baml
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Issues.baml
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Login.baml
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Member.baml
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\NewUser.baml
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\QRcode.baml
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Reminder.baml
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Report.baml
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Return.baml
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\ScanQRcode.baml
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Search.baml
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Library_System.g.resources
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Library_System.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Library_System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Library_System.exe.manifest
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Library_System.application
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Library_System.csproj.CopyComplete
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Library_System.exe
+C:\Users\Admin\Desktop\final 9\Library_System\obj\Debug\Library_System.pdb
+E:\GAD_CW2\Library_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\GAD_CW2\Library_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\GAD_CW2\Library_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\GAD_CW2\Library_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\GAD_CW2\Library_System\bin\Debug\Library_System.exe.config
+E:\GAD_CW2\Library_System\bin\Debug\Library_System.exe.manifest
+E:\GAD_CW2\Library_System\bin\Debug\Library_System.application
+E:\GAD_CW2\Library_System\bin\Debug\Library_System.exe
+E:\GAD_CW2\Library_System\bin\Debug\Library_System.pdb
+E:\GAD_CW2\Library_System\bin\Debug\AForge.dll
+E:\GAD_CW2\Library_System\bin\Debug\AForge.Video.DirectShow.dll
+E:\GAD_CW2\Library_System\bin\Debug\AForge.Video.dll
+E:\GAD_CW2\Library_System\bin\Debug\ControlzEx.dll
+E:\GAD_CW2\Library_System\bin\Debug\Dragablz.dll
+E:\GAD_CW2\Library_System\bin\Debug\MahApps.Metro.dll
+E:\GAD_CW2\Library_System\bin\Debug\MaterialDesignColors.dll
+E:\GAD_CW2\Library_System\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\GAD_CW2\Library_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\GAD_CW2\Library_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\GAD_CW2\Library_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\GAD_CW2\Library_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\GAD_CW2\Library_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\GAD_CW2\Library_System\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\GAD_CW2\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\GAD_CW2\Library_System\bin\Debug\QRCoder.dll
+E:\GAD_CW2\Library_System\bin\Debug\zxing.dll
+E:\GAD_CW2\Library_System\bin\Debug\EnvDTE.dll
+E:\GAD_CW2\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\GAD_CW2\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\GAD_CW2\Library_System\bin\Debug\stdole.dll
+E:\GAD_CW2\Library_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\GAD_CW2\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\GAD_CW2\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\GAD_CW2\Library_System\bin\Debug\Microsoft.MSXML.dll
+E:\GAD_CW2\Library_System\bin\Debug\AForge.xml
+E:\GAD_CW2\Library_System\bin\Debug\AForge.Video.xml
+E:\GAD_CW2\Library_System\bin\Debug\AForge.Video.DirectShow.xml
+E:\GAD_CW2\Library_System\bin\Debug\ControlzEx.pdb
+E:\GAD_CW2\Library_System\bin\Debug\ControlzEx.xml
+E:\GAD_CW2\Library_System\bin\Debug\Dragablz.pdb
+E:\GAD_CW2\Library_System\bin\Debug\Dragablz.xml
+E:\GAD_CW2\Library_System\bin\Debug\MahApps.Metro.pdb
+E:\GAD_CW2\Library_System\bin\Debug\MahApps.Metro.xml
+E:\GAD_CW2\Library_System\bin\Debug\MaterialDesignColors.pdb
+E:\GAD_CW2\Library_System\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\GAD_CW2\Library_System\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\GAD_CW2\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\GAD_CW2\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\GAD_CW2\Library_System\bin\Debug\zxing.xml
+E:\GAD_CW2\Library_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\GAD_CW2\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\GAD_CW2\Library_System\obj\Debug\Book.g.cs
+E:\GAD_CW2\Library_System\obj\Debug\Dashboard.g.cs
+E:\GAD_CW2\Library_System\obj\Debug\Issues.g.cs
+E:\GAD_CW2\Library_System\obj\Debug\Login.g.cs
+E:\GAD_CW2\Library_System\obj\Debug\MainWindow.g.cs
+E:\GAD_CW2\Library_System\obj\Debug\Member.g.cs
+E:\GAD_CW2\Library_System\obj\Debug\NewUser.g.cs
+E:\GAD_CW2\Library_System\obj\Debug\QRcode.g.cs
+E:\GAD_CW2\Library_System\obj\Debug\Reminder.g.cs
+E:\GAD_CW2\Library_System\obj\Debug\Report.g.cs
+E:\GAD_CW2\Library_System\obj\Debug\Return.g.cs
+E:\GAD_CW2\Library_System\obj\Debug\ScanQRcode.g.cs
+E:\GAD_CW2\Library_System\obj\Debug\Search.g.cs
+E:\GAD_CW2\Library_System\obj\Debug\App.g.cs
+E:\GAD_CW2\Library_System\obj\Debug\Library_System_Content.g.cs
+E:\GAD_CW2\Library_System\obj\Debug\Library_System_MarkupCompile.cache
+E:\GAD_CW2\Library_System\obj\Debug\Library_System_MarkupCompile.lref
+E:\GAD_CW2\Library_System\obj\Debug\App.baml
+E:\GAD_CW2\Library_System\obj\Debug\Book.baml
+E:\GAD_CW2\Library_System\obj\Debug\Dashboard.baml
+E:\GAD_CW2\Library_System\obj\Debug\Issues.baml
+E:\GAD_CW2\Library_System\obj\Debug\Login.baml
+E:\GAD_CW2\Library_System\obj\Debug\MainWindow.baml
+E:\GAD_CW2\Library_System\obj\Debug\Member.baml
+E:\GAD_CW2\Library_System\obj\Debug\NewUser.baml
+E:\GAD_CW2\Library_System\obj\Debug\QRcode.baml
+E:\GAD_CW2\Library_System\obj\Debug\Reminder.baml
+E:\GAD_CW2\Library_System\obj\Debug\Report.baml
+E:\GAD_CW2\Library_System\obj\Debug\Return.baml
+E:\GAD_CW2\Library_System\obj\Debug\ScanQRcode.baml
+E:\GAD_CW2\Library_System\obj\Debug\Search.baml
+E:\GAD_CW2\Library_System\obj\Debug\Library_System.g.resources
+E:\GAD_CW2\Library_System\obj\Debug\Library_System.Properties.Resources.resources
+E:\GAD_CW2\Library_System\obj\Debug\Library_System.csproj.GenerateResource.cache
+E:\GAD_CW2\Library_System\obj\Debug\RdlCompile.cache
+E:\GAD_CW2\Library_System\obj\Debug\RdlCompile.compiled
+E:\GAD_CW2\Library_System\obj\Debug\Library_System.csproj.CoreCompileInputs.cache
+E:\GAD_CW2\Library_System\obj\Debug\Library_System.exe.manifest
+E:\GAD_CW2\Library_System\obj\Debug\Library_System.application
+E:\GAD_CW2\Library_System\obj\Debug\Library_System.csproj.CopyComplete
+E:\GAD_CW2\Library_System\obj\Debug\Library_System.exe
+E:\GAD_CW2\Library_System\obj\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Library_System.exe.config
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Library_System.exe.manifest
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Library_System.application
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Library_System.exe
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\ControlzEx.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Dragablz.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\MahApps.Metro.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\QRCoder.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\zxing.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\ControlzEx.pdb
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\ControlzEx.xml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Dragablz.pdb
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Dragablz.xml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\MahApps.Metro.pdb
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\MahApps.Metro.xml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\zxing.xml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Book.g.cs
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Dashboard.g.cs
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Issues.g.cs
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Login.g.cs
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Member.g.cs
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\NewUser.g.cs
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\QRcode.g.cs
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Reminder.g.cs
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Report.g.cs
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Return.g.cs
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\ScanQRcode.g.cs
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Search.g.cs
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Library_System_Content.g.cs
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Library_System_MarkupCompile.cache
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Library_System_MarkupCompile.lref
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\App.baml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Book.baml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Dashboard.baml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Issues.baml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Login.baml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Member.baml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\NewUser.baml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\QRcode.baml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Reminder.baml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Report.baml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Return.baml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\ScanQRcode.baml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Search.baml
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Library_System.g.resources
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Library_System.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Library_System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Library_System.exe.manifest
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Library_System.application
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Library_System.csproj.CopyComplete
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Library_System.exe
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Library_System.pdb
+C:\Users\Admin\Desktop\GAD_CW2\Library_System\obj\Debug\Library_System.csprojAssemblyReference.cache
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Library_System.csproj.AssemblyReference.cache
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Library_System.csproj.SuggestedBindingRedirects.cache
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Book.g.cs
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Dashboard.g.cs
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Issues.g.cs
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Login.g.cs
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\MainWindow.g.cs
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Member.g.cs
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\NewUser.g.cs
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\QRcode.g.cs
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Reminder.g.cs
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Report.g.cs
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Return.g.cs
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\ScanQRcode.g.cs
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Search.g.cs
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\App.g.cs
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Library_System_Content.g.cs
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Library_System_MarkupCompile.cache
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Library_System_MarkupCompile.lref
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Library_System.exe
+D:\NIBM\GDA - C#\GAD_CW2\Library_System\obj\Debug\Library_System.pdb
